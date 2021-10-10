@@ -33,6 +33,6 @@ We found out from the analysis that the below are the most prominent locations w
 * Pune
 * Kolkata
 
-##Conclusion 
+## Conclusion 
 It can be well stated that in the current scenario , post pandemic , the field data science is emerging as never before. But one must remember to follow a specific roadmap if they wish to get on the voyage of data world. Otherwise it might be very overwhelming for them. Hope this basic analysis helped you. Please find the notebook for the visualization and crucnhing numbers on the data provided here.
 
