@@ -1,3 +1,4 @@
+![profilebanner](https://github.com/Csengupta1101/Career-Survey---Data-Scientist/blob/main/Data-Science-Career.jpg)
 # Career Choice Survey - Data Scientist
 
 ## About 
