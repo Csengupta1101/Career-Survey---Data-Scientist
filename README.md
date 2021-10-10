@@ -25,12 +25,10 @@ We found out from the analysis that the below are the most prominent skills recr
 * Time series analysis
 ### Primary locations holding major scopes in the field-
 We found out from the analysis that the below are the most prominent locations where scopes of working a data scientist is higher than other places.
-* Machine Learning
-* Python
-* Artificial Intelligence
-* Scala
-* Hadoop
-* Spark
-* Tensorflow
-* Deep learning
-* Time series analysis
+* Bengaluru
+* Hyderabad
+* Mumbai
+* Chennai
+* Pune
+* Kolkata
+
